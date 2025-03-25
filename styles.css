@@ -138,7 +138,7 @@ body {
 /* 底部基础样式 */
 .contact-bar {
     background: #f8f9fa; /* 背景颜色：浅灰色 */
-    padding: 9px 20px; /* 内边距：上下15px，左右20px */
+    padding: 7px 20px; /* 内边距：上下15px，左右20px */
     position: fixed;    /* 固定定位 */
     bottom: 0;          /* 固定在页面底部 */
     left: 2rem;        /* 左侧与正文对齐 */
